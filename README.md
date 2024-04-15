@@ -7,4 +7,5 @@ Código-fonte e os recursos relacionados ao curso "Curso de React: Configurando 
 - Compreensão do ciclo de vida dos componentes em React.
 - Gerenciamento de estados com o hook useState.
 - Manipulação de efeitos colaterais com o hook useEffect.
-- Compartilhamento da aplicação React no Github Pages e Vercel.
+- Compartilhamento da aplicação React no Github Pages.
+- Estilização com o Styled Components.
